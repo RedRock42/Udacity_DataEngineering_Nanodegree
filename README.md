@@ -1,7 +1,7 @@
 # Udacity Data Engineering Nanodegree
 
 ## Program Description from Udacity
-"The Data Analyst Nanodegree program is specifically designed to prepare you for a career in Data Engineering. This program teaches you the skills to design data models, build data warehouses and data lakes, automate data pipelines, and work with massive datasets."
+The Data Analyst Nanodegree program is specifically designed to prepare you for a career in Data Engineering. This program teaches you the skills to design data models, build data warehouses and data lakes, automate data pipelines, and work with massive datasets.
 
 ## Courses within the Nanodegree
     Data Modeling
